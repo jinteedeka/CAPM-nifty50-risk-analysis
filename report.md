@@ -14,7 +14,8 @@ This report interprets the results of a CAPM-based analysis of five major Nifty5
 | TCS | 1.6% | 22.4% | 0.07 |
 | **Nifty50 Index** | **10.7%** | **14.1%** | **0.76** |
 
-The Nifty50 index delivered a comparable or higher return than every individual stock in the sample, while carrying substantially lower volatility. This resulted in the index having the highest Sharpe ratio (0.76) — meaning it offered the best return per unit of risk taken. No individual stock matched this efficiency, illustrating the diversification benefit of holding a broad index rather than concentrated single-stock positions.
+The Nifty50 index delivered a comparable or higher return than every individual stock in the sample, while carrying substantially lower volatility. This resulted in the index having the highest Sharpe ratio (0.76) — meaning it offered the best return per unit of risk taken. No individual stock matched this efficiency, illustrating the diversification benefit of holding a broad index rather than concentrated single-stock positions. 
+![Risk-Return Chart](risk_return_chart.png)
 
 TCS stood out as the weakest performer, with the lowest annual return (1.6%) and Sharpe ratio (0.07) despite volatility similar to its peers — indicating that its risk was not well compensated by returns over this period.
 
